@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "name": "me.apla.cordova.app-preferences",
+    "cordova_name": "AppPreferences",
+    "description": "Application preferences plugin",
+    "license": "Apache",
+    "keywords": [
+        "preferences"
+    ]
+}
